@@ -1,4 +1,14 @@
+#top{
+    
+    margin-left: 25%;
+    margin-right: 25%;
+   
+}
 .topic {
     margin: auto;
     padding: 20px;
 };
+
+.paragraph-styling{
+    cursor: pointer;
+}
